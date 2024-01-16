@@ -1,0 +1,16 @@
+{
+  "resourceName": "tripcontent",
+  "policyUUID": "46f0a7b1",
+  "bucketName": "amplifytripsplannerstorage",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
